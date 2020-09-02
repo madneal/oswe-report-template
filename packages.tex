@@ -70,12 +70,12 @@
 \definecolor{mygreen}{rgb}{0,0.6,0}
 \definecolor{mygray}{rgb}{0.5,0.5,0.5}
 \definecolor{myblue}{RGB}{40,58,93}
-\definecolor{codebackground}{rgb}{0.8, 0.8, 0.8}
+\definecolor{codebackground}{RGB}{221, 222, 223}
 \definecolor{codechanged}{rgb}{0.8, 0.0, 0.0}
+
 
 \lstset{ %
   backgroundcolor=\color{codebackground},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}
-  basicstyle=\footnotesize,        % the size of the fonts that are used for the code
   breakatwhitespace=false,         % sets if automatic breaks should only happen at whitespace
   breaklines=true,                 % sets automatic line breaking
   captionpos=b,                    % sets the caption-position to bottom
@@ -83,22 +83,16 @@
   deletekeywords={...},            % if you want to delete keywords from the given language
   escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
   extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
-% frame=single,	                   % adds a frame around the code
+  frame=single,	                   % adds a frame around the code
   keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
-% keywordstyle=\color{blue},       % keyword style
-% language=Octave,                 % the language of the code
-% otherkeywords={*,...},           % if you want to add more keywords to the set
-  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
-  numbersep=5pt,                   % how far the line-numbers are from the code
-  numberstyle=\tiny\color{mygray}, % the style that is used for the line-numbers
-  rulecolor=\color{black},         % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+  keywordstyle=\color{blue},       % keyword style
   showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
   showstringspaces=false,          % underline spaces within strings only
   showtabs=false,                  % show tabs within strings adding particular underscores
   stepnumber=2,                    % the step between two line-numbers. If it's 1, each line will be numbered
-% stringstyle=\color{mymauve},     % string literal style
+  stringstyle=\color{mymauve},     % string literal style
   tabsize=2,	                   % sets default tabsize to 2 spaces
-% title=\lstname,                   % show the filename of files included with \lstinputlisting; also try caption instead of title
+  title=\lstname,                   % show the filename of files included with \lstinputlisting; also try caption instead of title
   moredelim=**[is][\color{codechanged}]{**@}{@**}, %Rot für Änderungen
   moredelim=**[is][\color{myblue}]{***@}{@***}, %einfaches blau
   moredelim=**[is][\color{mygreen}]{*@}{@*},%einfaches Grün
@@ -120,8 +114,7 @@
 \fancyhf{}
 \fancyfoot{} % clear all footer fields
 
-\fancyhead[R]{\small{\leftmark}}
-\fancyhead[L]{\small{Offensive Security - Penetration Test Report}}
+
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
 \renewcommand{\footrulewidth}{0.1pt} % Create a rule above the page number

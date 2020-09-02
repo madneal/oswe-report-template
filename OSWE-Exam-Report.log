@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.5)  2 SEP 2020 22:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.5)  2 SEP 2020 22:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/neal/project/oswe-report-template/maindocument
-(/Users/neal/project/oswe-report-template/maindocument.tex
+**/Users/neal/project/oswe-report-template/OSWE-Exam-Report
+(/Users/neal/project/oswe-report-template/OSWE-Exam-Report.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -597,7 +597,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip52
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 115.
+Package hyperref Info: Option `colorlinks' set `true' on input line 109.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip53
@@ -609,8 +609,8 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip59
 \f@nch@O@olf=\skip60
 \f@nch@O@orf=\skip61
-)) (./maindocument.aux)
-\openout1 = `maindocument.aux'.
+)) (./OSWE-Exam-Report.aux)
+\openout1 = `OSWE-Exam-Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -698,9 +698,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
- (./maindocument.out) (./maindocument.out)
+ (./OSWE-Exam-Report.out) (./OSWE-Exam-Report.out)
 \@outlinefile=\write5
-\openout5 = `maindocument.out'.
+\openout5 = `OSWE-Exam-Report.out'.
 
 File: offsec.png Graphic file (type bmp)
 <offsec.png>
@@ -730,7 +730,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 60.
- (./maindocument.toc
+ (./OSWE-Exam-Report.toc
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -742,7 +742,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
 )
 \tf@toc=\write6
-\openout6 = `maindocument.toc'.
+\openout6 = `OSWE-Exam-Report.toc'.
 
 File: header.png Graphic file (type bmp)
 <header.png>
@@ -766,6 +766,9 @@ Overfull \hbox (36.98866pt too wide) has occurred while \output is active
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 77.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
 File: header.png Graphic file (type bmp)
 <header.png>
 
@@ -775,7 +778,30 @@ Overfull \hbox (36.98866pt too wide) has occurred while \output is active
 
 [3
 
-] 
+]
+File: screenshot.png Graphic file (type bmp)
+<screenshot.png>
+
+Overfull \hbox (332.93268pt too wide) in paragraph at lines 127--128
+[][] 
+ []
+
+File: header.png Graphic file (type bmp)
+<header.png>
+
+Overfull \hbox (36.98866pt too wide) has occurred while \output is active
+ [][]| 
+ []
+
+[4]
+File: header.png Graphic file (type bmp)
+<header.png>
+
+Overfull \hbox (36.98866pt too wide) has occurred while \output is active
+ [][]| 
+ []
+
+[5] 
 AED: lastpage setting LastPage
 File: header.png Graphic file (type bmp)
 <header.png>
@@ -784,24 +810,28 @@ Overfull \hbox (36.98866pt too wide) has occurred while \output is active
  [][]| 
  []
 
-[4
+[6
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
- (./maindocument.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
-Package rerunfilecheck Info: File `maindocument.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+ (./OSWE-Exam-Report.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package rerunfilecheck Info: File `OSWE-Exam-Report.out' has not changed.
 (rerunfilecheck)             Checksum: FB41C8445D667DAEBF2DAADABF1ADA6E.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 27397 strings out of 492916
- 515993 string characters out of 6133345
- 657658 words of memory out of 5000000
- 31018 multiletter control sequences out of 15000+600000
- 20890 words of font info for 26 fonts, out of 8000000 for 9000
+ 27583 strings out of 492916
+ 518075 string characters out of 6133345
+ 956113 words of memory out of 5000000
+ 31199 multiletter control sequences out of 15000+600000
+ 22626 words of font info for 27 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,11n,83p,836b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,12n,83p,840b,1874s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on maindocument.pdf (5 pages).
+Output written on OSWE-Exam-Report.pdf (7 pages).

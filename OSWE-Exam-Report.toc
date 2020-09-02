@@ -6,6 +6,6 @@
 \contentsline {subsection}{\numberline {2.3}Vulnerability 2}{3}{subsection.2.3}% 
 \contentsline {subsection}{\numberline {2.4}Vulnerability X}{3}{subsection.2.4}% 
 \contentsline {subsection}{\numberline {2.5}PoC Code}{3}{subsection.2.5}% 
-\contentsline {subsection}{\numberline {2.6}Screenshots}{3}{subsection.2.6}% 
-\contentsline {subsection}{\numberline {2.7}Steps}{3}{subsection.2.7}% 
-\contentsline {section}{\numberline {3}Additional Items Not Mentioned in the Report}{4}{section.3}% 
+\contentsline {subsection}{\numberline {2.6}Screenshots}{4}{subsection.2.6}% 
+\contentsline {subsection}{\numberline {2.7}Steps}{5}{subsection.2.7}% 
+\contentsline {section}{\numberline {3}Additional Items Not Mentioned in the Report}{6}{section.3}% 
