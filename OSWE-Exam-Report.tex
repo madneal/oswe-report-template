@@ -121,6 +121,27 @@ Provide the final proof of concept code used to gain access to the server.
       return M
   \end{lstlisting}
 
+\begin{lstlisting}[language=Java][example.java]
+  import java.util.Scanner;
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+
+        // Creates a reader instance which takes
+        // input from standard input - keyboard
+        Scanner reader = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+
+        // nextInt() reads the next integer from the keyboard
+        int number = reader.nextInt();
+
+        // println() prints the following line to the output screen
+        System.out.println("You entered: " + number);
+    }
+}
+\end{lstlisting}
+
 \subsection{Screenshots}
 Provide screenshots of local.txt and proof.txt contents as stated in the Exam Control Panel Objectives.
 
