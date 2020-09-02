@@ -1,20 +1,9 @@
-# zauberfeder
-My OSCP report template in LaTex
+# OSWE report template
 
-The basic idea is that every host gets a own folder (just copy the example).
-While doing the machine the documentation goes into the file.
+## Screenshot
 
-Steps to create a new host for the report:
+![w9YoIP.png](https://s1.ax1x.com/2020/09/02/w9YoIP.png)
 
-1. copy the example folder and rename the folder to the machine name, ucki as a example.
-2. go to host.tex in the folder ucki , change the \hostname from example to ucki  
-3. write all the infos about the machine into the host.tex
-4. toggle (%) if you needed a priv esc or not
-5. overwrite the screenshots in the folder with the coresponding screenshots from the machine
-6. Include the  \ucki\host.tex in your main document
-7. Go through your pdf .. if you see solid color screenshots you have missed mandatory screenshots
+## PDF
 
-
-Big Thanks @Targunitoth for improving my sloppy work ;)
-
-And by the way this it open source software under the MIT terms.
+[report pdf](https://github.com/madneal/oswe-report-template/blob/master/OSWE-Exam-Report.pdf)
