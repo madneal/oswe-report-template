@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![w9YoIP.png](https://s1.ax1x.com/2020/09/02/w9YoIP.png)
+![wibLWj.png](https://s1.ax1x.com/2020/09/04/wibLWj.png)
 
 ## PDF
 
