@@ -1,5 +1,7 @@
 # OSWE report template
 
+OSWE provides the report template of .doc and .odt. During the process of writing my own report, I find it painful to adjust the format of .doc. Tex is one of the best tool for writing reports or papers. Hence I created this template. Hope it helpful.
+
 ## Screenshot
 
 ![wibLWj.png](https://s1.ax1x.com/2020/09/04/wibLWj.png)
